@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="Pares">
+    <file>Paridades/AUDCAD (OTC).png</file>
+    <file>Paridades/AUDCAD.png</file>
+    <file>Paridade Bloqueada.png</file>
+    <file>Paridades/AUDJPY.png</file>
+    <file>Paridades/AUDUSD.png</file>
+    <file>Paridades/CADCHF.png</file>
+    <file>Paridades/CADJPY.png</file>
+    <file>Paridades/CHFJPY.png</file>
+    <file>Paridades/EURAUD.png</file>
+    <file>Paridades/EURCAD.png</file>
+    <file>Paridades/EURGBP (OTC).png</file>
+    <file>Paridades/EURGBP.png</file>
+    <file>Paridades/EURJPY (OTC).png</file>
+    <file>Paridades/EURJPY.png</file>
+    <file>Paridades/EURNZD.png</file>
+    <file>Paridades/EURUSD (OTC).png</file>
+    <file>Paridades/EURUSD.png</file>
+    <file>Paridades/GBPAUD.png</file>
+    <file>Paridades/GBPCAD.png</file>
+    <file>Paridades/GBPCHF.png</file>
+    <file>Paridades/GBPJPY (OTC).png</file>
+    <file>Paridades/GBPJPY.png</file>
+    <file>Paridades/GBPNZD.png</file>
+    <file>Paridades/GBPUSD (OTC).png</file>
+    <file>Paridades/GBPUSD.png</file>
+    <file>Paridades/NZDUSD (OTC).png</file>
+    <file>Paridades/NZDUSD.png</file>
+    <file>Paridades/USDCAD.png</file>
+    <file>Paridades/USDCHF (OTC).png</file>
+    <file>Paridades/USDCHF.png</file>
+    <file>Paridades/USDJPY (OTC).png</file>
+    <file>Paridades/USDJPY.png</file>
+    <file>Paridades/USDNOK.png</file>
+    <file>Paridades/USDRUB.png</file>
+  </qresource>
+</RCC>

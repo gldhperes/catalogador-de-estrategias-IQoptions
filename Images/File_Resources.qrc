@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Eficaz">
+    <file>stonks menor.png</file>
+    <file>stonks.png</file>
+    <file>MAO.png</file>
+  </qresource>
+</RCC>

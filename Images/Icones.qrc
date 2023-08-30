@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Visibilidade">
+    <file>Visibilidade Off.png</file>
+    <file>Visibilidade On.png</file>
+  </qresource>
+</RCC>
