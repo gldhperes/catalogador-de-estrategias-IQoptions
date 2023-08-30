@@ -1,0 +1,28 @@
+#header {
+    width: 100%;
+    padding: 5px;
+    padding-left: 50px;
+    background-color: black;
+    border-bottom: 1px solid darkgray;
+
+    justify-content: flex-start;
+    gap: 50px;
+
+    z-index: 1;
+    color: white;
+}
+
+.headerImg {
+    width: 120px;
+    height: 120px;
+    z-index: 1;
+    background-image: url("../images/stonks.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#header > h2{
+    z-index: 1;
+}
+

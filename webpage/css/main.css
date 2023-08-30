@@ -1,0 +1,63 @@
+#main{
+    width: 100%;
+    padding: 50px;
+
+    justify-content: space-between;
+    align-items: flex-start;
+    /* gap: 50px; */
+    
+}
+
+
+
+#explicacao
+{
+    width: 500px;
+    
+    flex-flow: column;
+    gap: 20px;
+
+    font-size: x-large;
+}
+
+#explicacao > p{
+    width: 100%;
+    text-align: left;
+}
+
+#programa
+{
+    width: 600px;
+    height: 500px;
+    
+    background-image: url("../images/catalogador.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#linguagens
+{
+    width: 100%;
+    
+    margin-top: 10px;
+}
+
+#linguagens > ul
+{
+    flex-flow: column;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+#linguagens > ul > li
+{
+    flex-flow: column;
+    align-items: flex-start;
+}
+
+#linguagens > ul > li > h3
+{
+    color: orange;
+}
