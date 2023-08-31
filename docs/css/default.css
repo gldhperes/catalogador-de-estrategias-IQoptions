@@ -16,6 +16,10 @@ body {
     background-size: 300px 300px;
 }
 
+a{
+    text-decoration: none;
+}
+
 
 .flex {
     display: flex;
